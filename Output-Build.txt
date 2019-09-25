@@ -1,0 +1,12 @@
+﻿------ Build started: Project: ShoppingSiteDemo, Configuration: Debug Any CPU ------
+Validating Web Site
+Building directory '/js/'.
+Building directory '/vendor/bootstrap/js/'.
+Building directory '/vendor/chart.js/'.
+Building directory '/vendor/datatables/'.
+Building directory '/vendor/jquery/'.
+Building directory '/vendor/jquery-easing/'.
+Building directory '/'.
+
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
